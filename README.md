@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xkynl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m kangpengyun
+- 👀 I’m interested in play ping-pang.
+- 🌱 I’m currently learning c language.
+- 💞️ I’m looking to collaborate on learn
+- 📫 How to reach me 3285960025@qq.com
 
 <!---
 xkynl/xkynl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
